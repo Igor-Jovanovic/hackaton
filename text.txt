@@ -1,3 +1,7 @@
 foobar
 PA was here!
+<<<<<<< HEAD
 Igor was here
+=======
+Igor was here - 
+>>>>>>> main
