@@ -1,3 +1,3 @@
 # hackaton  !
 # foobar MGJH
-What is this and how does it work? Igor 
+tip for windows - use Github Desktop - Igor
