@@ -1,3 +1,3 @@
 # hackaton  !
 # foobar MGJH
-tip for windows - use Github Desktop - Igor
+# tip for windows - use Github Desktop - Igor
